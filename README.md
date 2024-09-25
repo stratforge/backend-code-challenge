@@ -1,4 +1,4 @@
-# 🗂️ File and Folder Management System
+# 🗂️ File Management System
 
 ### ⏰ Time Required: 48 - 72 hours
 
@@ -8,7 +8,7 @@
 
 Welcome coder 👩‍💻👨‍💻
 
-For this challenge, you need to develop a backend **File and Folder Management System**. The system should allow users to create, organize, and manage folders and files, where folders can contain other folders or files, and files cannot contain any other items.
+For this challenge, you need to develop a backend **File Management System**. The system should allow users to create, organize, and manage folders and files, where folders can contain other folders or files, and files cannot contain any other items.
 
 We will assess the following:
 
